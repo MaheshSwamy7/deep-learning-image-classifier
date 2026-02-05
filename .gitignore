@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (very large)
+data/
+
+# Saved model files
+model/*.h5
+
+# Mac system files
+.DS_Store
